@@ -4,3 +4,4 @@
 ## Git adicionado modificações
 *usando o git restore
 *git pull
+*git fetch
